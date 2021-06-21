@@ -5,8 +5,12 @@
 
 ## [Spring Framework] Spring Core, Spring MVC, Spring JDBC - 4
 ### 내용
+- 스프링 프레임워크란?
 - 브라운의 테스트로 배우는 Spring 학습 테스트 수행 
 - 기초적인 사용법 및 기능들 학습 
+- 스프링의 주요 특징 
+- 빈의 스코프
+- 스프링에서는 왜 빈을 싱글톤으로 생성할까? 
 ### 링크
 - [브라운의 Spring 학습 테스트](https://github.com/next-step/spring-learning-test)
 
@@ -14,6 +18,7 @@
 ### 내용
 - 브라운의 테스트로 배우는 Spring 학습 
 -  RestAssured 공식문서 참조 
+-  MockMVC와 RestAssured 각각의 특징 및 차이점 
 ### 링크
 - [RestAssured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage)
 
@@ -39,6 +44,8 @@
 ## DAO VS Repository
 - [DAO와 REPOSITORY 논쟁](http://egloos.zum.com/aeternum/v/1160846)
 - [피드백 내용](https://github.com/woowacourse/atdd-subway-map/pull/135#discussion_r631192384) 
+- DAO란? 
+- Repository란..? (DDD에서 부터 시작된 내용이라 
 
 ### 태그 
 - 아키텍처
@@ -70,6 +77,7 @@
 - 인가
 
 ## ArgumentResolvers
+- ArgumentResolvers란? 
 - Custom Argument Resolver를 등록할 수 있다.
 - `@ AuthenticationPrincipalArgumentResolver` 등록 및 사용 
 - [공식 문서](https://www.baeldung.com/spring-mvc-custom-data-binder#1-custom-argument-resolver)
