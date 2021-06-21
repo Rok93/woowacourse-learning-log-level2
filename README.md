@@ -21,7 +21,6 @@
 ### 내용 
 - REST API 란 무엇인가? 
 - REST API 디자인 가이드 학습 및 적용 
-- (심화)RESTFUL API에 대한 정리 
 ### 링크
 - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
 - [스프링부트 : REST 어플리케이션에서 예외처리하기](https://springboot.tistory.com/33) 
